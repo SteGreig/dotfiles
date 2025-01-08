@@ -1,0 +1,103 @@
+{
+  "window.commandCenter": 1,
+
+  "workbench.commandPalette.history": 100,
+
+  "workbench.colorTheme": "Oceanic Next",
+
+  "workbench.colorCustomizations": {
+
+    "sideBar.background": "#01151d",
+
+    "editorGroupHeader.tabsBackground": "#01151d",
+
+    "tab.inactiveBackground": "#011118",
+
+    "activityBar.background": "#0d2631",
+
+    "statusBar.background": "#01151d",
+
+    "titleBar.activeBackground": "#00070a",
+
+    "list.hoverBackground": "#0d2631",
+
+    "list.activeSelectionBackground": "#0d2631",
+
+    "list.inactiveSelectionBackground": "#0d2631",
+
+    "list.highlightForeground": "#508ba5",
+
+    "editor.background": "#0d2631",
+
+    "list.warningForeground": "#60cace",
+
+    "sideBar.foreground": "#508ba5",
+
+    "editor.selectionBackground": "#265164",
+
+    "editorLineNumber.foreground": "#265164",
+
+    "editorLineNumber.activeForeground": "#508ba5",
+
+    "editor.lineHighlightBackground": "#0d2631",
+
+    "editor.findMatchHighlightBackground": "#265164",
+
+    "editorWidget.background": "#011118",
+
+    "editorSuggestWidget.highlightForeground": "#508ba5",
+
+    "editorIndentGuide.background": "#1b3e4d",
+
+    "editorIndentGuide.activeBackground": "#1b3e4d"
+
+  },
+
+  "workbench.iconTheme": "eq-material-theme-icons",
+
+  "editor.matchBrackets": "never",
+
+  "editor.tabSize": 2,
+
+  "html.format.contentUnformatted": "",
+
+  "emmet.triggerExpansionOnTab": true,
+
+  "files.associations": {
+
+    "*html": "html",
+    "*.css": "postcss"
+
+  },
+
+  "emmet.useInlineCompletions": true,
+
+  "emmet.includeLanguages": {
+
+    "nunjucks": "html"
+
+  },
+
+  "emmet.preferences": {},
+
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  "[html]": {
+
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+
+  },
+
+  "[typescriptreact]": {
+
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+
+  },
+
+  "[javascript]": {
+
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+
+  }
+
+}
